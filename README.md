@@ -1,72 +1,58 @@
-```md
-# 💫 About Me
+# 👨‍💻 About Me
 
-👯 **I’m looking to collaborate on**  
-Open-source projects in Python, Security, and AI
+🚀 **Collaborating on:**
+Open-source projects in Python, Security & AI
 
-🤝 **I’m looking for help with**  
-Advanced DSA and building scalable real-world projects
+🤝 **Looking for help with:**
+Advanced DSA and scalable real-world projects
 
-🌱 **I’m currently learning**  
-Data Structures & Algorithms, Machine Learning, and Backend Development
+🌱 **Currently Learning:**
+Data Structures & Algorithms, Machine Learning, Backend Development
 
-💬 **Ask me about**  
-Cybersecurity, Bug Bounty, Python, and Tech
+💬 **Ask me about:**
+Cybersecurity, Bug Bounty, Python & Tech
 
-⚡ **Fun fact**  
+⚡ **Fun Fact:**
 I enjoy finding bugs more than writing code 😄
 
 ---
 
-# 💻 Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 💻 Languages
 
-### Frontend & Backend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+Python • JavaScript • TypeScript • C • Go • Rust • Ruby
 
-### Databases & AI
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+### 🌐 Web Development
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
-![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+HTML • CSS • Next.js • Django • FastAPI • .NET
 
-### Design & Productivity
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🤖 AI & Data
+
+NumPy • Pandas • Keras • OpenCV • CUDA
+
+### 🗄️ Database
+
+MongoDB
+
+### ⚙️ DevOps & Tools
+
+Git • Nginx • Apache • Flink • OpenAPI • TOR
+
+### 🎨 Design
+
+Figma • Canva
+
+### 🖥️ Environment
+
+Windows Terminal • PowerShell • Bash
 
 ---
 
-# 📊 Most Used Languages
+### 📊 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaivansh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaivansh\&theme=dark\&hide_border=true\&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Jaivansh&icon=0&color=0)](https://visitcount.itsvg.in)
-```
+![](https://visitcount.itsvg.in/api?id=Jaivansh\&icon=5\&color=6)
