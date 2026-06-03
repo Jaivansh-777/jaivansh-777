@@ -19,3 +19,10 @@ Python, Cybersecurity, Bug Bounty, React, JavaScript & AI
 ⚡ **Fun Fact**  
 I enjoy finding bugs more than writing code.
 
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Jaivansh-777&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Jaivansh-777&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jaivansh-777&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
